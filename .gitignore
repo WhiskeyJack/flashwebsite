@@ -1,5 +1,5 @@
 # Ignore configuration files that may contain sensitive information.
-*/settings*.ini
+*/db*.ini
 
 # Ignore paths that contain user-generated content.
 # But do not ignore the directories themselves
